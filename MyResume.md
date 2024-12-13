@@ -4,7 +4,6 @@
 JackFromCentralPA@gmail.com
 
 ### SKILLS
-
 + PowerShell
 + Microsoft Office Suite
 + Microsoft Power Package
@@ -31,6 +30,14 @@ McLanahan Corporation, Information Systems Department
 + Developed PowerShell modules (e.g. WindChill–to-Epicor converter, Navex RiskRate updater)
 + Wrote Power Automate Flows, primarily to send automated email alerts
 
+#### Maintenance Technician
+Dec 2021 - Feb 2022
+Carpenter Company, Pinecroft facility
+
+#### Mathematics Tutor
+Oct 2021 - Dec 2021
+Pennsylvania State University, Altoona Campus
+
 #### Data Manager
 Sep 2020 - Jul 2021
 Unkel Joe’s Woodshed
@@ -46,11 +53,14 @@ Various (North American Communications, Barton Cotton Graphics, ResourceOne)
 + Refactored *.bat files into PowerShell modules
 
 ### EDUCATION
-Bachelor of Science - Mathematics
+#### Bachelor of Science - Mathematics
 The Pennsylvania State University, Altoona College
+May 2021
 
-Associate in Engineering Technology - Electrical Engineering Technology
+#### Associate in Engineering Technology - Electrical Engineering Technology
 The Pennsylvania State University, College of Engineering
+May 2016
 
-Associate in Engineering Technology - Mechanical Engineering Technology
+#### Associate in Engineering Technology - Mechanical Engineering Technology
 The Pennsylvania State University, College of Engineering
+May 2016
